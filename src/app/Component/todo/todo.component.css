@@ -1,0 +1,21 @@
+button{
+    background-color: rgb(86, 175, 219);
+    color: #fff;
+    border: none;
+    padding: 10px;
+}
+input{
+    border-color: #f9f9f9;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    
+}
+
+button{
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+}
+ .edit{
+    border-radius: 10px;
+    padding: 0px 20px;
+}
